@@ -21,7 +21,7 @@ var articles={
              This is the content for my first article
              This is the content for my first article
              This is the content for my first article
-            </p>`
+            </p>`,
     },
     articletwo:{
         title: "Article Two | Avino Jennifer",
@@ -30,8 +30,7 @@ var articles={
         content:`
         <p>
         This is the content for my second article
-        </p>
-        `
+        </p> `,
     },
     articlethree:{
         title: "Article Three | Avino Jennifer",
@@ -41,8 +40,8 @@ var articles={
         <p>
         This is the content for my third article
         </p>
-        `
-    }
+        `,
+    },
 };
 
 
